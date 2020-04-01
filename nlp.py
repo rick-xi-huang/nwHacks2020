@@ -3,7 +3,7 @@ from google.cloud import language
 from google.cloud.language import enums
 import os
 
-client = language.LanguageServiceClient.from_service_account_json('key2.json')
+client = language.LanguageServiceClient.from_service_account_json('key.json')
 
 def analyze_sentiment(text: str):
     """

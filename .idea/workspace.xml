@@ -3509,6 +3509,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="GithubProjectSettings">
@@ -3659,12 +3660,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Flask server.sentiment" />
-      <item itemvalue="Flask server.Flask (app.py)" />
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="Python.newsfeed" />
       <item itemvalue="Python.pipeline" />
       <item itemvalue="Python.socialmediafeed" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="Flask server.sentiment" />
     </list>
     <recent_temporary>
       <list>
