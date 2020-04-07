@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeab04d7-c71c-424b-8bc6-45b139c00b0e" name="Default Changelist" comment="Tried to fix API issue">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="aeab04d7-c71c-424b-8bc6-45b139c00b0e" name="Default Changelist" comment="Tried to fix API issue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +257,7 @@
       <workItem from="1585706346189" duration="100000" />
       <workItem from="1585706529428" duration="603000" />
       <workItem from="1586244404363" duration="163000" />
-      <workItem from="1586244688853" duration="1078000" />
+      <workItem from="1586244688853" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="- created key.json and imported google.cloud nlp toolkit in nlp.py">
       <created>1578796217663</created>
@@ -444,36 +441,36 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="390" y="279" key="Github.CreatePullRequestDialog/0.0.1280.800@0.0.1280.800" timestamp="1578796261387" />
-    <state width="1878" height="258" key="GridCell.Tab.0.bottom" timestamp="1585706445640">
+    <state width="1878" height="257" key="GridCell.Tab.0.bottom" timestamp="1586246087406">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1578853959466" />
     <state width="1878" height="243" key="GridCell.Tab.0.bottom/0.23.1920.1120@0.23.1920.1120" timestamp="1582147024552" />
-    <state width="1878" height="258" key="GridCell.Tab.0.bottom/1920.-206.2560.1369/0.23.1920.1177@0.23.1920.1177" timestamp="1585706445640" />
+    <state width="1878" height="257" key="GridCell.Tab.0.bottom/1920.-206.2560.1369/0.23.1920.1177@0.23.1920.1177" timestamp="1586246087406" />
     <state width="1878" height="243" key="GridCell.Tab.0.bottom/1920.-54.1920.1177/0.23.1920.1120@0.23.1920.1120" timestamp="1581664608603" />
     <state width="1878" height="243" key="GridCell.Tab.0.bottom/1920.-973.1440.2537/0.23.1920.1120@0.23.1920.1120" timestamp="1580690310905" />
-    <state width="1878" height="258" key="GridCell.Tab.0.center" timestamp="1585706445640">
+    <state width="1878" height="257" key="GridCell.Tab.0.center" timestamp="1586246087405">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1578853959465" />
     <state width="1878" height="243" key="GridCell.Tab.0.center/0.23.1920.1120@0.23.1920.1120" timestamp="1582147024551" />
-    <state width="1878" height="258" key="GridCell.Tab.0.center/1920.-206.2560.1369/0.23.1920.1177@0.23.1920.1177" timestamp="1585706445640" />
+    <state width="1878" height="257" key="GridCell.Tab.0.center/1920.-206.2560.1369/0.23.1920.1177@0.23.1920.1177" timestamp="1586246087405" />
     <state width="1878" height="243" key="GridCell.Tab.0.center/1920.-54.1920.1177/0.23.1920.1120@0.23.1920.1120" timestamp="1581664608602" />
     <state width="1878" height="243" key="GridCell.Tab.0.center/1920.-973.1440.2537/0.23.1920.1120@0.23.1920.1120" timestamp="1580690310905" />
-    <state width="1878" height="258" key="GridCell.Tab.0.left" timestamp="1585706445639">
+    <state width="1878" height="257" key="GridCell.Tab.0.left" timestamp="1586246087404">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1578853959464" />
     <state width="1878" height="243" key="GridCell.Tab.0.left/0.23.1920.1120@0.23.1920.1120" timestamp="1582147024550" />
-    <state width="1878" height="258" key="GridCell.Tab.0.left/1920.-206.2560.1369/0.23.1920.1177@0.23.1920.1177" timestamp="1585706445639" />
+    <state width="1878" height="257" key="GridCell.Tab.0.left/1920.-206.2560.1369/0.23.1920.1177@0.23.1920.1177" timestamp="1586246087404" />
     <state width="1878" height="243" key="GridCell.Tab.0.left/1920.-54.1920.1177/0.23.1920.1120@0.23.1920.1120" timestamp="1581664608601" />
     <state width="1878" height="243" key="GridCell.Tab.0.left/1920.-973.1440.2537/0.23.1920.1120@0.23.1920.1120" timestamp="1580690310904" />
-    <state width="1878" height="258" key="GridCell.Tab.0.right" timestamp="1585706445640">
+    <state width="1878" height="257" key="GridCell.Tab.0.right" timestamp="1586246087405">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1578853959465" />
     <state width="1878" height="243" key="GridCell.Tab.0.right/0.23.1920.1120@0.23.1920.1120" timestamp="1582147024551" />
-    <state width="1878" height="258" key="GridCell.Tab.0.right/1920.-206.2560.1369/0.23.1920.1177@0.23.1920.1177" timestamp="1585706445640" />
+    <state width="1878" height="257" key="GridCell.Tab.0.right/1920.-206.2560.1369/0.23.1920.1177@0.23.1920.1177" timestamp="1586246087405" />
     <state width="1878" height="243" key="GridCell.Tab.0.right/1920.-54.1920.1177/0.23.1920.1120@0.23.1920.1120" timestamp="1581664608602" />
     <state width="1878" height="243" key="GridCell.Tab.0.right/1920.-973.1440.2537/0.23.1920.1120@0.23.1920.1120" timestamp="1580690310905" />
     <state x="128" y="69" key="MergeDialog" timestamp="1578799643728">
@@ -514,7 +511,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sentiment$sentiment.coverage" NAME="sentiment Coverage Results" MODIFIED="1578787403890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/nwHacks2020$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1586244418503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nwHacks2020$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1586246027676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nwHacks2020$nlp.coverage" NAME="nlp Coverage Results" MODIFIED="1578794817346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/nwHacks2020$nlp__1_.coverage" NAME="nlp (1) Coverage Results" MODIFIED="1578810164489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
