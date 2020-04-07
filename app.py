@@ -1,11 +1,7 @@
-from flask import Flask, flash, jsonify, redirect, render_template, request
+from flask import Flask, redirect, render_template, request
 
 from nlp import analyze_entity_sentiment
 from pipeline import *
-
-import mpld3
-
-import os
 
 app = Flask(__name__)
 

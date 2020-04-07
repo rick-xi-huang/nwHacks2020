@@ -3,7 +3,6 @@ import newsfeed
 import nlp
 import json
 import matplotlib.pyplot as plt
-import mpld3
 import os
 import time
 
