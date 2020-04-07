@@ -38,6 +38,7 @@ modulegraph==0.18
 mpld3==0.3
 numpy==1.16.0
 protobuf==3.11.3
+psycopg2==2.7.5
 py2app==0.21
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
