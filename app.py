@@ -26,6 +26,7 @@ def add_header(r):
 
 
 # Homepage
+# made a small change for commit
 @app.route('/', methods=["GET", "POST"])
 def hello_world():
     if request.method == "POST":
