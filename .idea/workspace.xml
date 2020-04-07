@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aeab04d7-c71c-424b-8bc6-45b139c00b0e" name="Default Changelist" comment="Tried to fix API issue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,7 +264,7 @@
       <workItem from="1586248708220" duration="421000" />
       <workItem from="1586249183488" duration="373000" />
       <workItem from="1586249567371" duration="277000" />
-      <workItem from="1586249854937" duration="2291000" />
+      <workItem from="1586249854937" duration="3067000" />
     </task>
     <task id="LOCAL-00001" summary="- created key.json and imported google.cloud nlp toolkit in nlp.py">
       <created>1578796217663</created>
